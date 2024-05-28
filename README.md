@@ -1,4 +1,4 @@
-# Yaroslav
+# 👋 Hello, I'm Yaroslav!
   
 👨🏼‍💻 Data Professional | Mathematician   
 💎 Resourceful | Perceptive | Goal-oriented   
