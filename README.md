@@ -17,7 +17,7 @@ When I am not coding up data pipelines, you may find me shooting a CQ DX on the 
   
 ## Get in touch
   
-☕️ Linkedin: [yaroveso](https://www.linkedin.com/in/yaroveso/)
+☕️ Linkedin: [yaroveso](https://www.linkedin.com/in/yaroveso/)  
 📫 Email: [yaroveso@gmail.com](yaroveso@gmail.com)
 
 <!--
